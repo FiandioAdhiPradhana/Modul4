@@ -1,6 +1,6 @@
-# # **Modul 4 Practicum Report**
+# # **Praktikum Modul 4**
 
-### By : Fairuzrizqi Nugraharsanto  &  Budhi Priambodo
+### Reksa Aldian (1202192048) &  Fiandio Adhi Pradhana (1202192034)
 
 * First, make 2 copies of containers, and then start
 
